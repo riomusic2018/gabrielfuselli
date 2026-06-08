@@ -93,7 +93,7 @@ export const services: Service[] = [
   },
 ];
 
-const BASE = 'https://www.gabrielfuselli.com/s/cc_images/';
+const BASE = '/';
 
 function item(id: number, file: string, category: string, title: string): PortfolioItem {
   const src = BASE + file;
