@@ -172,7 +172,7 @@ export default function Home() {
             <div className="animate-on-scroll">
               <div className="relative">
                 <img
-                  src="/image copy.png"
+                  src="/cache_39078713.jpg"
                   alt="Gabriel Fuselli, fotógrafo"
                   className="w-full h-[500px] object-cover"
                 />
