@@ -67,7 +67,7 @@ export default function About() {
             <div className="animate-on-scroll">
               <div className="relative">
                 <img
-                  src="/image copy copy copy copy copy copy copy copy copy.png"
+                  src="/cache_39078713.jpg"
                   alt="Gabriel Fuselli, fotógrafo profesional"
                   className="w-full h-[600px] object-cover"
                 />
